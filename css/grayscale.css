@@ -146,6 +146,12 @@ a:focus {
     -o-background-size: cover;
 }
 
+img {
+    border: 3px solid #3A8FB7;
+    border-radius: 10px;
+    width: 67%;
+}
+
 .intro .intro-body {
     display: table-cell;
     vertical-align: middle;
