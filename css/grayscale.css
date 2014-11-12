@@ -150,6 +150,8 @@ img {
     border: 3px solid #3A8FB7;
     border-radius: 10px;
     width: 67%;
+    height: 200px;
+    margin-bottom: 2%;
 }
 
 .intro .intro-body {
